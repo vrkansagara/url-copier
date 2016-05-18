@@ -1,0 +1,14 @@
+{
+    "name": "vrkansagara/url-copier",
+    "description": "Copy url contant and past into mysql database.",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Vallabh Kansagara",
+            "email": "vrkansagara@gmail.com"
+        }
+    ],
+    "require": {
+        "jv2222/ezsql": "dev-master"
+    }
+}
